@@ -1,0 +1,26 @@
+h1 {
+  color: blue;
+}
+
+li {
+  font-size: 20px;
+  color: #19B5FE;
+}
+
+html#index {
+  background-image: url(http://www.fanartreview.com//farusr/213532/1716364028.JPG);
+  background-size: cover;
+}
+html#door {
+  background-image: url("http://vignette2.wikia.nocookie.net/mlp/images/a/a2/DJ_Pon-3_kicking_school_doors_open_EG2.png/revision/latest?cb=20141211045727");
+  background-size: cover;
+}
+}
+html#head {
+  background-image: url("http://vectortoons.com/wp-content/uploads/2013/07/grey-skulls-collection-014.jpg");
+  background-size: cover;
+}
+html#pliers {
+  background-image: url("https://www.dlsweb.rmit.edu.au/toolbox/electrotech/toolbox1204/resources/03workshop/05hand_tools/images/pliers.jpg");
+  background-size: cover;
+}
